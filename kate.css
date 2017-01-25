@@ -1,0 +1,33 @@
+.main-cont {
+  margin-bottom: 10px; }
+
+.my-page-header {
+  text-align: center;
+  margin: 25px; }
+
+.months-cont {
+  text-align: center;
+  margin: 23px 0; }
+
+.weather-buttons {
+  text-align: center;
+  margin: 25px 5px 40px 5px; }
+
+.air-temp, .weather-buttons {
+  display: inline-block;
+  font-size: 25px; }
+
+.weather-cont {
+  width: 50%;
+  margin: auto 0; }
+
+.search-results {
+  padding: 0 15px 9px 15px;
+  margin: 10px 0 20px 0;
+  border-bottom: 1px solid #eee;
+  text-align: center; }
+
+.places-cont {
+  margin: 25px 0 50px; }
+
+/*# sourceMappingURL=kate.css.map */
